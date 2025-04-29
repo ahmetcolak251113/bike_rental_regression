@@ -12,5 +12,4 @@ I created this project after learning about **linear regression** to practice my
 - Visualized real vs predicted values
 - Saved the trained model as a `.pkl` file
 
-## Project Structure
 
